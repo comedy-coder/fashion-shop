@@ -8,9 +8,6 @@ import product_04_image_01 from "../images/products/product-04 (1).jpg"
 import product_04_image_02 from "../images/products/product-04 (2).jpg"
 import product_05_image_01 from "../images/products/product-05 (1).jpg"
 import product_05_image_02 from "../images/products/product-05 (2).gif"
-import product_13_image_01 from "../images/slider/slide_1.png"
-import product_14_image_01 from "../images/slider/slide_2.png"
-import product_15_image_01 from "../images/slider/slide_3.png"
 
 
 
